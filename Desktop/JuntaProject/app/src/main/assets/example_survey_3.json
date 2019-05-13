@@ -1,0 +1,179 @@
+{
+  "survey_properties": {
+    "intro_message": "<strong>지난 한달 동안을 생각해 보십시오. 다음의 각 문항은 스트레스 상황하에서 자신이 얼마니 잘 대처하고 있는가를 점검하는 것입니다.</strong>",
+    "end_message": "<font color='green'>최적상태</font> : 37점이상<br/><font color='blue'>적당한 상태</font> : 31-36점, <font color='yellow'>긴장상태</font> : 22-30점<br/><font color='red'>탈진상태</font> : 0-21점으로 구분할 수 있습니다",
+    "skip_intro": false
+  },
+  "questions": [
+    {
+      "question_type": "Radioboxes",
+      "question_title": "아침을 먹는다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "몸무게가 적당한 수준으로 유지한다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "설탕을 삼간다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "에어로빅과 같은 운동을 열심히 한다.",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "몸펴기 운동이나 요가를 한다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "자신의 몸을 사랑하고 즐긴다.",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "내 몸이 긴장될 때 얼른 알아차린다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "이를 닦는다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "차를 탈 때 안전벨트를 한다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "나를 잘 알고 내가 믿고 있는 내과의사의 도움을 받고 있다.",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "정서적으로나 신체적으로 문제가 있을 때 도움을 찾는다.",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "몸의 긴장을 푸는 이완을 하거나 쉬는 시간을 갖는다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "흡연을 삼간다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    },{
+      "question_type": "Radioboxes",
+      "question_title": "지나친 음주는 삼간다",
+      "description": "",
+      "required": true,
+      "random_choices": false,
+      "choices": [
+        "항상 그렇다(3)",
+        "때때로 그렇다(2)",
+        "가끔 그렇다(1)",
+        "결코 그렇지 않다(0)"
+      ]
+    }
+  ]
+}

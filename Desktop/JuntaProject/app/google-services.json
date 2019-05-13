@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078868729601",
+    "firebase_url": "https://juntaproject.firebaseio.com",
+    "project_id": "juntaproject",
+    "storage_bucket": "juntaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078868729601:android:4719bee9357affb7",
+        "android_client_info": {
+          "package_name": "com.example.user.juntaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078868729601-m6hbg5kgshhp9ni11b93jo8ou02bpoft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4x1uufecraFIb-8LvoLHrkUfgBfcuwvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
